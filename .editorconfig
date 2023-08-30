@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA2016: Перенаправьте параметр "CancellationToken" в методы
+dotnet_diagnostic.CA2016.severity = none
